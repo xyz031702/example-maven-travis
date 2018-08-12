@@ -1,5 +1,5 @@
 # Black Duck CoPilot Maven/Travis CI Example
-
+1
 [![Travis CI](https://travis-ci.org/BlackDuckCoPilot/example-maven-travis.svg?branch=master)](https://travis-ci.org/BlackDuckCoPilot/example-maven-travis) [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-maven-travis/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-maven-travis/branches/master)
 
 Shows a working setup for using Black Duck CoPilot to analyze the risk of project dependencies
