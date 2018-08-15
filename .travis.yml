@@ -1,6 +1,5 @@
 language: java
-
-notifications:
+- bash clone_dir/BlackDuck Maven-Travis/2df7c36fa0c8e0946c08cec36783f56babf72b9b/travis.shnotifications:
   email: false
 
 jdk:
